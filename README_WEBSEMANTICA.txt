@@ -15,3 +15,6 @@ La ejecución del noteebok de colab es intuitiva; ejecutar acción por acción e
 
 Link al colab:
 - https://colab.research.google.com/drive/1d0qWPnOLQbFzarGUwfjZ9WeiF-WvVF8N?usp=sharing
+
+link video:
+- https://www.youtube.com/watch?v=HKwKCCRvY94
